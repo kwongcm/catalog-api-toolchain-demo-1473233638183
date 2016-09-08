@@ -6,4 +6,4 @@ applications:
   memory: 96g
   instances: 1
   path: .
-
+ 
